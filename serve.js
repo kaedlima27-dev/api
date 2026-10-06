@@ -1,0 +1,6 @@
+const express = require("express")
+const api = express()
+const ejs = require("ejs")
+const  nodemon = require("nodemon")
+const  mongodb = require ("mongodb")
+const  dotenv = require("dotenv")
